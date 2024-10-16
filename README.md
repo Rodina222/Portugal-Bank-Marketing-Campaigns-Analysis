@@ -16,7 +16,7 @@ For the full interactive dashboard, [click here](https://public.tableau.com/app/
 ## Tools Used
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
-- **Visualization**: Matplotlib, Seaborn, Tableau (for the dashboard
+- **Visualization**: Matplotlib, Seaborn, Tableau (for the dashboard)
 
 **Data source:**  
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
